@@ -1,0 +1,45 @@
+*{
+    color: white;
+    margin:0;
+    padding:0;
+}
+#head {
+    WIDTH: 100%;
+    HEIGHT: 80PX;
+    BACKGROUND-COLOR: BLACK;
+}
+
+#content {
+    HEIGHT: 600PX;
+    WIDTH: 100%;
+    BACKGROUND-COLOR: ANTIQUEWHITE;
+}
+
+#footer {
+    WIDTH: 100%;
+    HEIGHT: 400PX;
+    BACKGROUND-COLOR: BLACK;
+}
+
+.logo {
+    float: left;
+    font-size: -webkit-xxx-large;
+    margin-top: 11px;
+    margin-left: 60px;
+}
+
+#header-menu {
+    float: right;
+    display: flex;
+}
+
+
+#header-menu > li {
+    display: block;
+    margin-right: 69px;
+}
+img.stretch {
+    position: relative;
+    height: 120%;
+    width: 100%;
+}

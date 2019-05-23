@@ -1,0 +1,18 @@
+{
+  "name": "stockpractice",
+  "version": "1.0.0",
+  "description": "simple mean app that views stocks",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
+  }
+}

@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.slot {
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+#Banner {
+    width: 100%;
+    height: 80px;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: -webkit-xxx-large;
+}
+#content>div>div {
+    margin-bottom:10px;
+    
+    position: relative;
+    left: 17px;
+    padding-right: 160px;
+    padding-top: 7px;
+}
+.ban2 {
+    width: 50%;
+    float: left;
+}
+img.amerflag {
+    width: 100%;
+    height: 270px;
+}
+
+img.flaggif {
+    width: 100%;
+    height: 270px;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.title {font-weight: 700;text-align: -webkit-center;font-size: 49px;}
+.entry {
+    font-size: 24px;
+}

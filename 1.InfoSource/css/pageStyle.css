@@ -1,0 +1,30 @@
+div#content{
+    margin-top: 90px;
+    width: 90%;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.newsTile {
+    height: 350px;
+    width: 382px;
+    float: left;
+  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 30px;
+    margin-bottom: 31px;
+    background-color: black;
+    padding: 29px;
+}
+
+#shortLink {
+    font-family: fantasy;
+}
+a {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
