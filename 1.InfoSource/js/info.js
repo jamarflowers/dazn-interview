@@ -12,7 +12,7 @@ imageRequest.open('GET',imageUrl);
 
 
 var Newsrequest = new XMLHttpRequest();
-var Newsurl = "https://api.nytimes.com/svc/topstories/v2/science.json?api-key=q5SoRAwGcrPYS7sRAlWw3HONTUab0y5C";
+var Newsurl = "https://api.nytimes.com/svc/topstories/v2/science.json?api-key=";
 Newsrequest.open('GET',Newsurl);
 
     Newsrequest.onload = function(){
