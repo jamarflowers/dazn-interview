@@ -1,6 +1,6 @@
 function giphyImage(searchTerm){
 
-//    https://api.giphy.com/v1/gifs/search?api_key=3XwNq73468C8UoNWARFZdtXLcjGgg4BX&q=science&limit=25&offset=0&rating=G&lang=en
+//    https://api.giphy.com/v1/gifs/search?api_key==science&limit=25&offset=0&rating=G&lang=en
 var imageRequest = new XMLHttpRequest();
 var imageUrl = "https://api.giphy.com/v1/gifs/search?api_key=3XwNq73468C8UoNWARFZdtXLcjGgg4BX&q="+searchTerm+"&limit=25&offset=0&rating=G&lang=en";
 imageRequest.open('GET',imageUrl);
